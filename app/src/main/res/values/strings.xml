@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TodoSobreMi</string>
+    <string name="namePerson">Edman Quinteros</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Nacionalidad Salvadoreña.
+        \nMis hobbis son ver peliculas o anime y disfrutar de la naturaleza.
+        \nDeportes favoritos el futbol y el basketball
+        \nMis cualidades a destacar son:
+        \n - puntual
+        \n - ordenado
+        \n - respetuoso
+        \n - digno de confiar
+        \n - colaborador
+        \n\n
+        \nIngeniero en sistemas recién graduado, con un gran interés en la programación.
+        \nCon capacidad para aprender y aplicar mis conocimientos al ámbito profesional.
+        \nEn busca de una oportunidad laboral en la que pueda desarrollar mis habilidades y adquirir experiencia</string>
+    <string name="photo_person">Foto Principal</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="buttonDone">Done</string>
+</resources>
